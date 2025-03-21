@@ -1,4 +1,4 @@
-const API_KEY = 'pub_75498ba903559f739209575748527b3ab0daa';
+const API_KEY = 'a84e8df5-63e4-4baa-be19-0b68f37f0124';
 const URL = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;
 
 async function fetchNews() {
