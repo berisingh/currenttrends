@@ -1,5 +1,5 @@
 const API_KEY = 'a84e8df5-63e4-4baa-be19-0b68f37f0124';
-const URL = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;
+const URL = `https://cricketdata.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;
 
 async function fetchNews() {
     try {
